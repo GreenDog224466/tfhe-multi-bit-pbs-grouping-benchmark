@@ -1,0 +1,3 @@
+param_set,grouping_factor_g,ggsw_per_element_2^g,input_dim_n,groups_n_div_g,std_bsk_size_mb,keygen_time_s,decomp_base_log,decomp_level,correct,domain,notes
+multi_bit_pbs/group_2_msg2_carry2,2,4,888,444,111.000,1.258,21,1,Y,Fourier,"threads=8; identity LUT; native 2^64; latency in criterion report"
+multi_bit_pbs/group_3_msg2_carry2,3,8,891,297,148.500,1.435,21,1,Y,Fourier,"threads=8; identity LUT; native 2^64; latency in criterion report"
